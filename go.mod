@@ -1,6 +1,6 @@
 module github.com/openweft/weft-app-gtk
 
-go 1.26
+go 1.26.4
 
 require (
 	fyne.io/systray v1.11.0
